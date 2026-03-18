@@ -69,6 +69,7 @@
 </div>
 
 > [!CAUTION]
+> @rexxtheproject has not released this baileys in npm so it is still in the form of a github fork
 > `elaina-baileys` The old channel was banned due to an error by one of the admins, so we moved the information to the new channel.
 > Built on top of the WhiskeySockets/Baileys project. All original core logic credits go to their team. elaina-baileys extends it with thoughtful UX and DX improvements.
 > 🙌 Contributors outside the Baileys code
