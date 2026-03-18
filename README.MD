@@ -322,7 +322,7 @@ Terima kasih kepada semua pihak yang telah memberikan dukungan, inspirasi, serta
 <tr>
 <td align="center">
 <a href="https://github.com/rexxtheproject">
-<img src="https://avatars.githubusercontent.com/u/150516773?v=4" width="80px;" style="border-radius:50%;" alt="Rexx"/>
+<img src="https://avatars.githubusercontent.com/u/266297437?v=4" width="80px;" style="border-radius:50%;" alt="Rexx"/>
 <br />
 <sub><b>RexxTheProject  || RexxHayanasi [ developer project ]</b></sub>
 </a>
