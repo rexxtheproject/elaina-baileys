@@ -23,9 +23,9 @@
     "WAProto/*"
   ],
   "scripts": {
-    "changelog:update": "conventional-changelog -p aveline.js -i CHANGELOG.md -s -r 0",
-    "changelog:preview": "conventional-changelog -p aveline.js -u",
-    "changelog:last": "conventional-changelog -p aveline.js -r 2",
+    "changelog:update": "conventional-changelog -p RexxHayanasi.js -i CHANGELOG.md -s -r 0",
+    "changelog:preview": "conventional-changelog -p RexxHayanasi.js -u",
+    "changelog:last": "conventional-changelog -p RexxHayanasi.js -r 2",
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "example": "node --inspect Example/example.js",
     "lint": "eslint src --ext .js",
